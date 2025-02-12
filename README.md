@@ -1,6 +1,8 @@
-#### Deprecated
+# Deprecated
 
 This repo is abandoned because Obtainium works directly with the official URL https://cubeacr.app/
+
+----
 
 # CubeACR-apk
 Latest release of `Cube ACR Helper` from https://cubeacr.app. Useful with [Obtainium](https://github.com/ImranR98/Obtainium).
